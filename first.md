@@ -5,5 +5,5 @@ tags: ""
 ### hi ilk note
 
 merhaba
-\[] ilk choice
+[] ilk choice
 [x] bu da işaretlenmiş
